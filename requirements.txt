@@ -1,0 +1,7 @@
+pandas
+onnxruntime
+scikit-learn
+vcd
+PySimpleGUI
+Pillow
+plotly
