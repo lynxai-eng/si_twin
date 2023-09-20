@@ -42,15 +42,25 @@ Input file Example
 ```bash
     python3 si_twin.py 
 ```
+- si_twin app interface 
+
+![alt text](https://github.com/lynxai-eng/si_twin/blob/main/1.png)
+- The GUI displays the result of the model. 
+1. The top left window shows the accuracy of the model output against the anticipated output from the Ethernet MAC API. 
+2. The Top right displays the failing signals, on a scale of 0 to 1, with 1 being 100% match. For example a signal that is 0.8 indicates  80% success.
+3. The bottom window is drilling down into specificity of the failing cycles and the states for which they are failing
+
+![alt text](https://github.com/lynxai-eng/si_twin/blob/main/2.png)
+- In this folder have vcd files
+
+![alt text](https://github.com/lynxai-eng/si_twin/blob/main/3.png)
 - After execution new folder will be created as follows: 
 ```bash
     infer000{n}    // example infer0001,infer0002....
 ```
-- In this folder have vcd files
 
-![alt text](https://github.com/lynxai-eng/si_twin/blob/main/1.png)
-![alt text](https://github.com/lynxai-eng/si_twin/blob/main/2.png)
-![alt text](https://github.com/lynxai-eng/si_twin/blob/main/3.png)
+
+
  
 ![Logo](https://lynxai.io/wp-content/uploads/2021/11/AynxAi-Logo-design-final-min-1536x1536-1.png)
 
