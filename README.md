@@ -51,7 +51,7 @@ Input file Example
 3. The bottom window is drilling down into specificity of the failing cycles and the states for which they are failing
 
 ![alt text](https://github.com/lynxai-eng/si_twin/blob/main/2.png)
-- In this folder have vcd files
+- The VCD file is generated in the following folder
 
 ![alt text](https://github.com/lynxai-eng/si_twin/blob/main/3.png)
 - After execution new folder will be created as follows: 
