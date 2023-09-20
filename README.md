@@ -47,6 +47,10 @@ Input file Example
     infer000{n}    // example infer0001,infer0002....
 ```
 - In this folder have vcd files
+
+![alt text](https://github.com/lynxai-eng/si_twin/blob/main/1.png)
+![alt text](https://github.com/lynxai-eng/si_twin/blob/main/2.png)
+![alt text](https://github.com/lynxai-eng/si_twin/blob/main/3.png)
  
 ![Logo](https://lynxai.io/wp-content/uploads/2021/11/AynxAi-Logo-design-final-min-1536x1536-1.png)
 
