@@ -1,7 +1,7 @@
 pandas
 onnxruntime
 scikit-learn
-vcd
+pyvcd
 PySimpleGUI
 Pillow
 plotly
